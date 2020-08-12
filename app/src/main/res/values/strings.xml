@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OfficeCrime</string>
+    <string name="date_picker_title">Дата преступления</string>
+</resources>
